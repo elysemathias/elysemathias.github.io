@@ -1,0 +1,49 @@
+[
+  {
+    "source":"https://unsplash.com/photos/LTCVqZfvSZE",
+    "alternate":"Annaka-shi, Japan",
+    "title":"Annaka-shi, Japan",
+    "description":"Annaka-shi, Japan",
+    "class":"item active"
+  },
+
+  {
+    "source":"https://cdn.cnn.com/cnnnext/dam/assets/180304224319-12-oscars-show-jordan-peele-super-169.jpg",
+    "alternate":"Jordan Peele",
+    "title":"Best Original Screenplay",
+    "description":"Jordan Peele won Best Original Screenplay for his film Get Out",
+    "class":"item"
+  },
+
+  {
+    "source":"https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1028x675/format/jpg/quality/85/http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F13c8ba156be9782602f349a882cf6372%2F0%2Factor-frances-mcdormand-accepts-best-actress-for-three-billboards-picture-id927324898",
+    "alternate":"Frances McDormand",
+    "title":"Best Lead Actress",
+    "description":"Frances McDormand took home this award for her work in Three Billboards outside Ebbing, Missouri",
+    "class":"item"
+  },
+
+  {
+    "source":"https://metrouk2.files.wordpress.com/2018/03/sei_2091497.jpg?w=748&h=543&crop=1",
+    "alternate":"Gary Oldman",
+    "title":"Best Lead Actor",
+    "description":"Gary Oldman won for his work in Darkest Hour",
+    "class":"item"
+  },
+
+  {
+    "source":"http://static.tumblr.com/53eafdf54bcf7ed0d3240ba48a9d7e37/yxql1hy/ERxp2mutq/tumblr_static_1tbqmq75pmo00000ks0og8s80.jpg",
+    "alternate":"Blade Runner 2049",
+    "title":"Best Cinematography",
+    "description":"Blade Runner 2049 won Best Cinematography",
+    "class":"item"
+  },
+
+  {
+    "source":"https://dg7kra6zb39sn.cloudfront.net/media/cache/25/1f/251f1a5a9f553a216c423309d8eca4e7.jpg",
+    "alternate":"The Shape of Water",
+    "title":"Best Picture",
+    "description":"The Shape of Water won Best Picture",
+    "class":"item"
+  }
+]
