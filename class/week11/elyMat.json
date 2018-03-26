@@ -2,9 +2,9 @@
   "Sheet1": {
     "1": {
       "itemId": 1,
-      "elyMatTitle": "apricot",
-      "elyMatColour": "orange",
-      "elyMatUrl": "elysemathias.github.io/class/week11/img/apricot.png"
+      "elyMatTitle": "pinterest",
+      "elyMatColour": "black",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/pinterest.png"
     },
     "2": {
       "itemId": 2,
@@ -14,8 +14,8 @@
     },
     "3": {
       "itemId": 3,
-      "samLavTitle": "apple",
-      "samLavColour": "red",
+      "elyMatTitle": "apple",
+      "elyMatColour": "red",
       "elyMatUrl": "elysemathias.github.io/class/week11/img/apple.png"
     },
     "4": {
