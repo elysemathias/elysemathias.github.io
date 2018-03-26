@@ -1,0 +1,40 @@
+{
+  "Sheet1": {
+    "1": {
+      "itemId": 1,
+      "elyMatTitle": "apricot",
+      "elyMatColour": "orange",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/apricot.png"
+    },
+    "2": {
+      "itemId": 2,
+      "elyMatTitle": "pear",
+      "elyMatColour": "green",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/pear.png"
+    },
+    "3": {
+      "itemId": 3,
+      "samLavTitle": "apple",
+      "samLavColour": "red",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/apple.png"
+    },
+    "4": {
+      "itemId": 4,
+      "elyMatTitle": "kiwi",
+      "elyMatColour": "brown",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/kiwi.png"
+    },
+    "5": {
+      "itemId": 5,
+      "elyMatTitle": "banana",
+      "elyMatColour": "yellow",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/banana.png"
+    },
+    "6": {
+      "itemId": 6,
+      "elyMatTitle": "grapes",
+      "elyMatColour": "purple ",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/grapes.png"
+    }
+  }
+}
