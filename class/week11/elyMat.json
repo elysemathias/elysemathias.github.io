@@ -8,33 +8,33 @@
     },
     "2": {
       "itemId": 2,
-      "elyMatTitle": "pear",
-      "elyMatColour": "green",
-      "elyMatUrl": "elysemathias.github.io/class/week11/img/pear.png"
+      "elyMatTitle": "facebook",
+      "elyMatColour": "white",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/facebook.png"
     },
     "3": {
       "itemId": 3,
-      "elyMatTitle": "apple",
-      "elyMatColour": "red",
-      "elyMatUrl": "elysemathias.github.io/class/week11/img/apple.png"
+      "elyMatTitle": "twitter",
+      "elyMatColour": "blue",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/twitter.png"
     },
     "4": {
       "itemId": 4,
-      "elyMatTitle": "kiwi",
-      "elyMatColour": "brown",
-      "elyMatUrl": "elysemathias.github.io/class/week11/img/kiwi.png"
+      "elyMatTitle": "instagram",
+      "elyMatColour": "pink",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/instagram.png"
     },
     "5": {
       "itemId": 5,
-      "elyMatTitle": "banana",
+      "elyMatTitle": "snapchat",
       "elyMatColour": "yellow",
-      "elyMatUrl": "elysemathias.github.io/class/week11/img/banana.png"
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/snapchat.png"
     },
     "6": {
       "itemId": 6,
-      "elyMatTitle": "grapes",
-      "elyMatColour": "purple ",
-      "elyMatUrl": "elysemathias.github.io/class/week11/img/grapes.png"
+      "elyMatTitle": "google",
+      "elyMatColour": "red",
+      "elyMatUrl": "elysemathias.github.io/class/week11/img/google.png"
     }
   }
 }
