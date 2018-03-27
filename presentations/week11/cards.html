@@ -28,13 +28,18 @@
       padding: 10px;
     }
     .nav ul{
-        list-style: none;
-        text-align: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
     }
 
     .nav li{
         color: black;
         padding-right: 2%;
+        text-align: center;
+        display: inline;
     }
 
     .nav a{
@@ -46,6 +51,9 @@
       .nav{
         text-align: center;
     }
+    li a:hover {
+    background-color: #111;
+}
   </style>
 
   <!-- Bootstrap -->
@@ -101,10 +109,10 @@
        },
 
        {
+         "imgUrl": "elysemathias.github.io/presentations/week11/facebook.png",
          "age": "1.4 billion daily users",
          "name": "Facebook",
          "owner": "Operating since 2004",
-         "imgUrl": "elysemathias.github.io/presentations/week11/facebook.png",
          "button": "More Info" //if u wish to do buttons
        }
      ];
